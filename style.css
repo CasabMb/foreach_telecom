@@ -272,3 +272,21 @@ footer{
     padding: 15px 0px;
 }
 
+/*float button*/
+
+.float_button_container{
+    width: 30px;
+}
+#button_vers_le_haut{
+    background-color:#4876EA;
+	width: 40px;
+	height: 40px;
+    border-radius: 50px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+}

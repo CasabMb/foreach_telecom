@@ -172,6 +172,8 @@ h2{
     justify-content: space-evenly;
     max-width: 1200px;
     margin: auto;
+    font-weight: bold;
+    font-size: small;
 }
 .element_pourquoi{
     display: flex;

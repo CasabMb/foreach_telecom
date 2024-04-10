@@ -40,17 +40,17 @@ h1{
     height: 100%;
 }
 
-ul{
+header ul{
     list-style: none;
     display: flex;
     gap: 20px;    
 }
-li{
+header li{
     background-color: #4876EA;
     padding: 5px 10px;
     border-radius: 10px;
 }
-li a {
+header li a {
     text-decoration: none;
     display: flex;
     flex-direction: row-reverse;
@@ -59,6 +59,6 @@ li a {
     color: rgb(255, 255, 255);
     font-weight: bold;
 }
-ul :hover{
+header ul :hover{
     background-color: #3454a3;
 }

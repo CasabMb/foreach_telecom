@@ -262,3 +262,13 @@ ul{
     font-size: small;
     font-weight: bold;
 }
+
+/*Footer*/
+
+footer{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 0px;
+}
+

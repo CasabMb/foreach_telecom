@@ -80,3 +80,11 @@ nav{
 nav a:hover{
     background-color: #b4b4b4;
 }
+
+/*jumbotron*/
+#jumbotron{
+    background-image: url(./assets/images/jumbotron_image.jpg);
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+}

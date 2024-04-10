@@ -181,3 +181,38 @@ h2{
     align-items: center;
     gap: 10px;
 }
+
+/*Section Internet*/
+
+#internet{
+    text-align: center;
+}
+#internet h2{
+    margin-bottom: 10px;
+}
+#fibre_adsl{
+    background-color: #CDDBFF;
+    max-width: 1100px;
+    margin: auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 10px;
+    align-items: center;
+}
+#fibre_adsl p{
+    font-weight: bold;
+}
+#fibre_adsl button{
+    padding: 10px 5px;
+    border: none;
+    color: white;
+    background-color: #4876EA;
+}
+
+#fibre_adsl button:hover{
+    background-color: #3454a3;
+    cursor: pointer;
+}

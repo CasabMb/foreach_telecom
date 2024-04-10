@@ -293,3 +293,6 @@ footer{
 	bottom: 20px;
 	right: 20px;
 }
+#button_vers_le_haut:hover{
+    background-color: #3454a3;
+}

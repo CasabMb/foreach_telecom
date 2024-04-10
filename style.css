@@ -99,6 +99,7 @@ h2{
     display: flex;
     max-width: 1600px;
     gap: 10px;
+    margin-bottom: 30px;
 
 }
 .offre{
@@ -153,4 +154,28 @@ h2{
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+/*partie pourquoi*/
+
+#pourquoi{
+    background-color: white;
+    padding: 30px 40px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.icones_container_pourquoi{
+    width: 40px;
+}
+#contenu_pourquoi{
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 1200px;
+    margin: auto;
+}
+.element_pourquoi{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
 }
